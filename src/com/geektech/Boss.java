@@ -1,3 +1,5 @@
+package com.geektech;
+
 public class Boss extends GameEntity {
 
   private Weapon weapon;

@@ -1,3 +1,5 @@
+package com.geektech;
+
 public class GameEntity {
   private int health;
   private int damage;
